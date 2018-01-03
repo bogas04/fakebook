@@ -1,0 +1,1 @@
+export const defaultProfileImage = 'https://www.freeiconspng.com/uploads/profile-icon-9.png'
